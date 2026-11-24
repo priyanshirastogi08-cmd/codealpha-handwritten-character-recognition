@@ -49,3 +49,9 @@ This repository contains the implementation for **Task 3** of the CodeAlpha Mach
 2. Install the required dependencies via the VS Code terminal:
    ```bash
    pip install -r requirements.txt
+
+
+## 👤 Author
+* **Priyanshi Rastogi**  
+* *B.Tech Computer Science and Engineering, IIIT Pune*  
+* *CodeAlpha Machine Learning Intern*
